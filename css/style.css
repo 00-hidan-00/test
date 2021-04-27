@@ -4,6 +4,9 @@ html {
 body {
    background-color: #c15250;
 }
-p{
+p {
    font-weight: 800;
+}
+p {
+   color: #c15250;
 }
